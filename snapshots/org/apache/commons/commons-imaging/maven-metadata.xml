@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.commons</groupId>
+  <artifactId>commons-imaging</artifactId>
+  <version>1.0-NYMAG</version>
+  <versioning>
+    <versions>
+      <version>1.0-NYMAG</version>
+    </versions>
+    <lastUpdated>20140211185047</lastUpdated>
+  </versioning>
+</metadata>
